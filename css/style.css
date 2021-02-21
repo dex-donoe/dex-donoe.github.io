@@ -148,17 +148,17 @@ html, body {
 	padding:0;
 }
 
-html,  body, a:hover {
-	cursor:url('http://dex-donoe.github.io/images/cursor.png') 0 0, auto;}
+body {
+
+}
 
 body {
     font-family: 'GT Walsheim', sans-serif;
     font-weight: 600;
     font-style:oblique;
     letter-spacing:1;
-	background-color:black;
-	color:yellow;
 	scroll-behavior: smooth;
+  cursor:url('http://dex-donoe.github.io/images/cursor.png');
 }
 
 a {
