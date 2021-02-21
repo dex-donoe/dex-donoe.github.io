@@ -266,7 +266,7 @@ hr {
 .msn {
   position:fixed;
   bottom:0;
-  right:4vw;
+  right:3vw;
   z-index:999999999;
   background-image:url('https://dex-donoe.github.io/images/msn.png');
   background-size:cover;
@@ -276,15 +276,19 @@ hr {
 
 .msn-button {
   font-family: 'GT Walsheim', sans-serif;
-  font-size:1.5vw;
+  font-size:1.2vw;
   letter-spacing:1;
-  line-height:12vw;
+  line-height:12.4vw;
   width:100%;
   margin:0;
   padding:0;
-  color:#666666;
+  color:#333333;
   border:0;
   background-color:transparent;
+}
+
+.msn-button:hover {
+  text-decoration:underline;
 }
 
 

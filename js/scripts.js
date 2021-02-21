@@ -24,8 +24,8 @@ document.getElementById('stopButton').onclick = function() {
 
 /* MSN */
 
-document.getElementById('msn').onclick = function() {
-  document.getElementById('beep').play();
+document.getElementById('msn-button').onclick = function() {
+  document.getElementById('msn').play();
 };
 
 /* BEEPS 
