@@ -146,10 +146,7 @@ html, body {
   scroll-behavior: smooth;
   margin:0;
   padding:0;
-}
-
-body {
-
+  cursor:url('http://dex-donoe.github.io/images/cursor.png'), auto;
 }
 
 body {
@@ -158,8 +155,9 @@ body {
   font-style:oblique;
   letter-spacing:1;
   scroll-behavior: smooth;
-  cursor:url('http://dex-donoe.github.io/images/cursor.png'), auto;
   background-color:black;
+  background-image:url('http://dex-donoe.github.io/images/bg.gif');
+  background-size:cover;
 }
 
 a {
@@ -170,11 +168,6 @@ a {
 .fixed {	width:100%;
   position:fixed;
 }
-
-.background {
-    background-image:url('http://dex-donoe.github.io/images/bg.gif');
-    width:100%;
-  }
 
   .header {
     font-family: 'GT Walsheim', sans-serif;
