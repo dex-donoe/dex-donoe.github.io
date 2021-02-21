@@ -1,151 +1,151 @@
 @font-face {
-    font-family: 'GT Walsheim';
-    src: url('GTWalsheim-Black.woff2') format('woff2'),
-        url('GTWalsheim-Black.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
+  font-family: 'GT Walsheim';
+  src: url('GTWalsheim-Black.woff2') format('woff2'),
+  url('GTWalsheim-Black.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'GT Walsheim';
-    src: url('GTWalsheim-BoldOblique.woff2') format('woff2'),
-        url('GTWalsheim-BoldOblique.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
+  font-family: 'GT Walsheim';
+  src: url('GTWalsheim-BoldOblique.woff2') format('woff2'),
+  url('GTWalsheim-BoldOblique.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'GT Walsheim';
-    src: url('GTWalsheim-BlackOblique.woff2') format('woff2'),
-        url('GTWalsheim-BlackOblique.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
+  font-family: 'GT Walsheim';
+  src: url('GTWalsheim-BlackOblique.woff2') format('woff2'),
+  url('GTWalsheim-BlackOblique.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'GT Walsheim';
-    src: url('GTWalsheim-Bold.woff2') format('woff2'),
-        url('GTWalsheim-Bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
+  font-family: 'GT Walsheim';
+  src: url('GTWalsheim-Bold.woff2') format('woff2'),
+  url('GTWalsheim-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'GT Walsheim';
-    src: url('GTWalsheim-MediumOblique.woff2') format('woff2'),
-        url('GTWalsheim-MediumOblique.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
+  font-family: 'GT Walsheim';
+  src: url('GTWalsheim-MediumOblique.woff2') format('woff2'),
+  url('GTWalsheim-MediumOblique.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'GT Walsheim';
-    src: url('GTWalsheim-Light.woff2') format('woff2'),
-        url('GTWalsheim-Light.woff') format('woff');
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
+  font-family: 'GT Walsheim';
+  src: url('GTWalsheim-Light.woff2') format('woff2'),
+  url('GTWalsheim-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'GT Walsheim';
-    src: url('GTWalsheim-RegularOblique.woff2') format('woff2'),
-        url('GTWalsheim-RegularOblique.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
+  font-family: 'GT Walsheim';
+  src: url('GTWalsheim-RegularOblique.woff2') format('woff2'),
+  url('GTWalsheim-RegularOblique.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'GT Walsheim';
-    src: url('GTWalsheim-LightOblique.woff2') format('woff2'),
-        url('GTWalsheim-LightOblique.woff') format('woff');
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
+  font-family: 'GT Walsheim';
+  src: url('GTWalsheim-LightOblique.woff2') format('woff2'),
+  url('GTWalsheim-LightOblique.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'GT Walsheim';
-    src: url('GTWalsheim-Medium.woff2') format('woff2'),
-        url('GTWalsheim-Medium.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
+  font-family: 'GT Walsheim';
+  src: url('GTWalsheim-Medium.woff2') format('woff2'),
+  url('GTWalsheim-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'GT Walsheim';
-    src: url('GTWalsheim-UltraBold.woff2') format('woff2'),
-        url('GTWalsheim-UltraBold.woff') format('woff');
-    font-weight: 800;
-    font-style: normal;
-    font-display: swap;
+  font-family: 'GT Walsheim';
+  src: url('GTWalsheim-UltraBold.woff2') format('woff2'),
+  url('GTWalsheim-UltraBold.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'GT Walsheim';
-    src: url('GTWalsheim-UltraLightOblique.woff2') format('woff2'),
-        url('GTWalsheim-UltraLightOblique.woff') format('woff');
-    font-weight: 200;
-    font-style: normal;
-    font-display: swap;
+  font-family: 'GT Walsheim';
+  src: url('GTWalsheim-UltraLightOblique.woff2') format('woff2'),
+  url('GTWalsheim-UltraLightOblique.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'GT Walsheim';
-    src: url('GTWalsheim-UltraLight.woff2') format('woff2'),
-        url('GTWalsheim-UltraLight.woff') format('woff');
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
+  font-family: 'GT Walsheim';
+  src: url('GTWalsheim-UltraLight.woff2') format('woff2'),
+  url('GTWalsheim-UltraLight.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'GT Walsheim';
-    src: url('GTWalsheim.woff2') format('woff2'),
-        url('GTWalsheim.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
+  font-family: 'GT Walsheim';
+  src: url('GTWalsheim.woff2') format('woff2'),
+  url('GTWalsheim.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'GT Walsheim';
-    src: url('GTWalsheim-ThinOblique.woff2') format('woff2'),
-        url('GTWalsheim-ThinOblique.woff') format('woff');
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
+  font-family: 'GT Walsheim';
+  src: url('GTWalsheim-ThinOblique.woff2') format('woff2'),
+  url('GTWalsheim-ThinOblique.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'GT Walsheim';
-    src: url('GTWalsheim-Thin.woff2') format('woff2'),
-        url('GTWalsheim-Thin.woff') format('woff');
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
+  font-family: 'GT Walsheim';
+  src: url('GTWalsheim-Thin.woff2') format('woff2'),
+  url('GTWalsheim-Thin.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'GT Walsheim';
-    src: url('GTWalsheim-UltraBoldOblique.woff2') format('woff2'),
-        url('GTWalsheim-UltraBoldOblique.woff') format('woff');
-    font-weight: 800;
-    font-style: normal;
-    font-display: swap;
+  font-family: 'GT Walsheim';
+  src: url('GTWalsheim-UltraBoldOblique.woff2') format('woff2'),
+  url('GTWalsheim-UltraBoldOblique.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
 }
 
 html, body {
-	scroll-behavior: smooth;
-	margin:0;
-	padding:0;
+  scroll-behavior: smooth;
+  margin:0;
+  padding:0;
 }
 
 body {
@@ -153,69 +153,73 @@ body {
 }
 
 body {
-    font-family: 'GT Walsheim', sans-serif;
-    font-weight: 600;
-    font-style:oblique;
-    letter-spacing:1;
-	scroll-behavior: smooth;
-  cursor:url('http://dex-donoe.github.io/images/cursor.png');
+  font-family: 'GT Walsheim', sans-serif;
+  font-weight: 600;
+  font-style:oblique;
+  letter-spacing:1;
+  scroll-behavior: smooth;
+  cursor:url('http://dex-donoe.github.io/images/cursor.png'), auto;
+  background-color:black;
 }
 
 a {
-	text-decoration:none;
-	color:rgba(252,223,205,1);
+  text-decoration:none;
+  color:rgba(252,223,205,1);
 }
 
 .fixed {	width:100%;
-	position:fixed;}
-
-.background {width:100%;
-		background-image:url('images/bg.gif');}
-
-.header {
-    font-family: 'GT Walsheim', sans-serif;
-	color:#ff00d2;
-	font-size:20vw;
-	width:100%;
-	text-align:center;
-	text-transform:uppercase;
-	margin:5vw 0 0;
-	z-index:99999;
+  position:fixed;
 }
 
-.music {
-    font-family: 'GT Walsheim', sans-serif;
-	color:#ff00d2;
-	font-size:20vw;
-	width:100%;
-	text-align:center;
-	text-transform:uppercase;
-	margin:0;
-	padding:0;
-	z-index:99999;
-}
+.background {
+    background-image:url('http://dex-donoe.github.io/images/bg.gif');
+    width:100%;
+  }
 
-.audio-container-its-love {
-	width:10vw;
-	height:10vw;
-	padding:0;
-	margin:0 auto;
+  .header {
+    font-family: 'GT Walsheim', sans-serif;
+    color:#ff00d2;
+    font-size:20vw;
+    width:100%;
+    text-align:center;
+    text-transform:uppercase;
+    margin:5vw 0 0;
+    z-index:99999;
+  }
+
+  .music {
+    font-family: 'GT Walsheim', sans-serif;
+    color:#ff00d2;
+    font-size:20vw;
+    width:100%;
+    text-align:center;
+    text-transform:uppercase;
+    margin:0;
+    padding:0;
+    z-index:99999;
+  }
+
+  .audio-container-its-love {
+    width:10vw;
+    height:10vw;
+    padding:0;
+    margin:0 auto;
     background-color:pink;
     border-radius:100px;
     display:inline-block;
-}
+  }
 
-.audio-container-my-mind {
-	width:10vw;
-	height:10vw;
-	padding:0;
-	margin:0 auto;
+  .audio-container-my-mind {
+    width:10vw;
+    height:10vw;
+    padding:0;
+    margin:0 auto;
     background-color:red;
     border-radius:100px;
     display:inline-block;
-}
+  }
 
-audio {
+  audio {
     width:0;
     height:0;
     margin:0;
@@ -224,84 +228,84 @@ audio {
     position:relative;
     top:3.7vw;
     left:3vw;
-}
-
-/* SCROLLBAR_WIDTH */
-::-webkit-scrollbar {
-	width: 3px;
-	height: 3px;
-}
-
-/* SCROLLBAR_TRACK */
-::-webkit-scrollbar-track {
-	background: transparent;
-}
-
-/* SCROLLBAR_HANDLE */
-::-webkit-scrollbar-thumb {
-	background: rgba(252,223,205,.5); 
-}
-
-.marquee-container-top, .marquee-container-right, .marquee-container-bottom, .marquee-container-left {
-	font-family: 'GT Walsheim', sans-serif;
-}
-
-.marquee-container-top {
-  position: fixed;
-  top:0;
-  width: 100%;
-  overflow: hidden;
-  height: 5vw;
-  background-color:#ff0000;
-}
-
-.marquee-container-right {
-  position: fixed;
-  right:0;
-  width: 5vw;
-  overflow: hidden;
-  height: 100%;
-  background-color:#3cff00;
-}
-
-.marquee-container-bottom {
-  position: fixed;
-  bottom:0;
-  width: 100%;
-  overflow: hidden;
-  height: 5vw;
-  background-color:#ff00d2;
-}
-.marquee-container-left {
-  position: fixed;
-  left:0;
-  width: 5vw;
-  overflow: hidden;
-  height: 100%;
-  background-color:#00eaff;
-}
-
-.scrolling-text {
-  display: block;
-  color:black;
-  font-size:4.3vw;
-  text-transform:uppercase;
-  width: 100%;
-  /* width of your text div */
-  height: 2vw;
-  /* height of your text div */
-  position: absolute;
-  animation: marquee 8s linear infinite; /* change 5s value to your desired speed */
-}
-.scrolling-text:hover {
-  animation-play-state: paused;
-  cursor: pointer;
-}
-@keyframes marquee {
-  0% {
-    left: 100%;
   }
-  100% {
-    left: -147px /* same as your text width */
+
+  /* SCROLLBAR_WIDTH */
+  ::-webkit-scrollbar {
+    width: 3px;
+    height: 3px;
   }
-}
+
+  /* SCROLLBAR_TRACK */
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  /* SCROLLBAR_HANDLE */
+  ::-webkit-scrollbar-thumb {
+    background: rgba(252,223,205,.5); 
+  }
+
+  .marquee-container-top, .marquee-container-right, .marquee-container-bottom, .marquee-container-left {
+    font-family: 'GT Walsheim', sans-serif;
+  }
+
+  .marquee-container-top {
+    position: fixed;
+    top:0;
+    width: 100%;
+    overflow: hidden;
+    height: 5vw;
+    background-color:#ff0000;
+  }
+
+  .marquee-container-right {
+    position: fixed;
+    right:0;
+    width: 5vw;
+    overflow: hidden;
+    height: 100%;
+    background-color:#3cff00;
+  }
+
+  .marquee-container-bottom {
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    overflow: hidden;
+    height: 5vw;
+    background-color:#ff00d2;
+  }
+  .marquee-container-left {
+    position: fixed;
+    left:0;
+    width: 5vw;
+    overflow: hidden;
+    height: 100%;
+    background-color:#00eaff;
+  }
+
+  .scrolling-text {
+    display: block;
+    color:black;
+    font-size:4.3vw;
+    text-transform:uppercase;
+    width: 100%;
+    /* width of your text div */
+    height: 2vw;
+    /* height of your text div */
+    position: absolute;
+    animation: marquee 8s linear infinite; /* change 5s value to your desired speed */
+  }
+  .scrolling-text:hover {
+    animation-play-state: paused;
+    cursor: pointer;
+  }
+  @keyframes marquee {
+    0% {
+      left: 100%;
+    }
+    100% {
+      left: -147px /* same as your text width */
+    }
+  }
