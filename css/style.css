@@ -142,6 +142,8 @@
   font-display: swap;
 }
 
+/* ALL */
+
 html, body {
   margin:0;
   padding:0;
@@ -152,6 +154,7 @@ html, body {
   font-style:oblique;
   letter-spacing:1;
   scroll-behavior: smooth;
+  overflow: scroll;
   background-color:black;
 }
 
@@ -209,15 +212,17 @@ hr {
   width:20vw;
   margin:0 1vw;
   padding:1vw 0;
-  color:#ff00d2;
+  color:#ffffff;
   background-color:black;
-  box-shadow: 0 2vw 2vw 0 transparent, 0 2vw 2vw 0 transparent;
-
+  box-shadow: 0 0 2vw 0 transparent, 0 0 2vw 0 transparent;
 }
 
 .play:hover {
-  box-shadow: 0 2vw 2vw 0 red, 0 2vw 2vw 0 blue;
+  box-shadow: 0 0 2vw 0 #ff00d2, 0 0 2vw 0 blue;
+  cursor:url('http://dex-donoe.github.io/images/cursor.png'), auto;
 }
+
+/* STOP_BUTTON */
 
 .stop {
   font-family: 'GT Walsheim', sans-serif;
@@ -231,4 +236,161 @@ hr {
   padding:1vw 0;
   color:white;
   background-color:red;
+  box-shadow: 0 0 2vw 0 transparent, 0 0 2vw 0 transparent;
 }
+
+.stop:hover {
+  box-shadow: 0 0 2vw 0 red, 0 0 2vw 0 transparent;
+  cursor:url('http://dex-donoe.github.io/images/cursor.png'), auto;
+}
+
+/* SCROLLBAR_WIDTH */
+
+::-webkit-scrollbar {
+  width: 20px;
+  height: 20px;
+}
+
+/* SCROLLBAR_TRACK */
+::-webkit-scrollbar-track {
+  background: grey;
+}
+
+/* SCROLLBAR_HANDLE */
+::-webkit-scrollbar-thumb {
+  background: red;
+}
+
+/* MSN_BUTTON */
+
+.msn {
+  position:fixed;
+  bottom:0;
+  right:0;
+  z-index:999999999;
+  background-image:url('images/msn.png');
+  background-size:cover;
+  height:20vw;
+}
+
+.msn-button {
+  font-family: 'GT Walsheim', sans-serif;
+  font-weight:600;
+  font-size:2vw;
+  font-style:oblique;
+  letter-spacing:1;
+  text-transform:uppercase;
+  width:20vw;
+  margin:0 1vw;
+  padding:1vw 0;
+  color:#ffffff;
+  background-color:transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* MARQUEES */
+
+  .marquee-container-top {
+    position: fixed;
+    top:0;
+    width: 100%;
+    overflow: hidden;
+    height: 5vw;
+    background-color:#ff0000;
+  }
+
+  .marquee-container-right {
+    position: fixed;
+    right:0;
+    width: 5vw;
+    overflow: hidden;
+    height: 100%;
+    background-color:#3cff00;
+  }
+
+  .marquee-container-bottom {
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    overflow: hidden;
+    height: 5vw;
+    background-color:#ff00d2;
+  }
+  .marquee-container-left {
+    position: fixed;
+    left:0;
+    width: 5vw;
+    overflow: hidden;
+    height: 100%;
+    background-color:#00eaff;
+  }
+
+
+  .scrolling-text {
+    display: block;
+    color:black;
+    font-size:4.3vw;
+    text-transform:uppercase;
+    width: 50%;
+    /* width of your text div */
+    height: 2vw;
+    /* height of your text div */
+    position: absolute;
+    animation: marquee 6s linear infinite; /* change 5s value to your desired speed */
+  }
+
+  .scrolling-text-side {
+    display: block;
+    color:black;
+    font-size:4.3vw;
+    text-transform:uppercase;
+    width: 70%;
+    /* width of your text div */
+    height: 2vw;
+    /* height of your text div */
+    position: absolute;
+    animation: scroll-left 2s linear infinite; /* change 5s value to your desired speed */
+  }
+
+  .scrolling-text-side p {
+    padding:0;
+    margin:0;
+  }
+
+  .scrolling-text:hover {
+    animation-play-state: paused;
+    cursor: pointer;
+  }
+  @keyframes scroll-left {
+    0% {
+      left: 50%;
+    }
+    100% {
+      left: -147px /* same as your text width */
+    }
+  }
