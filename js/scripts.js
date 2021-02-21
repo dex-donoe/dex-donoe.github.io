@@ -24,7 +24,7 @@ document.getElementById('stopButton').onclick = function() {
 
 /* MSN */
 
-document.getElementById('msn-button').onclick = function() {
+document.getElementById('MsnButton').onclick = function() {
   document.getElementById('msn').play();
 };
 

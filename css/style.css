@@ -274,7 +274,7 @@ hr {
   width:14.9vw;
 }
 
-.msn-button {
+.MsnButton {
   font-family: 'GT Walsheim', sans-serif;
   font-size:1.2vw;
   letter-spacing:1;
@@ -287,10 +287,9 @@ hr {
   background-color:transparent;
 }
 
-.msn-button:hover {
+.MsnButton:hover {
   text-decoration:underline;
 }
-
 
 
 
