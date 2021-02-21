@@ -166,8 +166,9 @@ html, body {
   left: 0;
   width:100%;
   height:100%;
-  background-image:url('http://dex-donoe.github.io/images/bg.gif');
   background-size:cover;
+  
+  background-image:url('http://dex-donoe.github.io/images/bg.gif');
 }
 
 /* HEADER */
@@ -389,7 +390,7 @@ hr {
     animation-play-state: paused;
     cursor: pointer;
   }
-  @keyframes scroll-left {
+  @keyframes marquee {
     0% {
       left: 50%;
     }
