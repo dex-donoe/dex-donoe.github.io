@@ -266,24 +266,24 @@ hr {
 .msn {
   position:fixed;
   bottom:0;
-  right:0;
+  right:4vw;
   z-index:999999999;
-  background-image:url('images/msn.png');
+  background-image:url('https://dex-donoe.github.io/images/msn.png');
   background-size:cover;
-  height:20vw;
+  height:12vw;
+  width:14.9vw;
 }
 
 .msn-button {
   font-family: 'GT Walsheim', sans-serif;
-  font-weight:600;
-  font-size:2vw;
-  font-style:oblique;
+  font-size:1.5vw;
   letter-spacing:1;
-  text-transform:uppercase;
-  width:20vw;
-  margin:0 1vw;
-  padding:1vw 0;
-  color:#ffffff;
+  line-height:12vw;
+  width:100%;
+  margin:0;
+  padding:0;
+  color:#666666;
+  border:0;
   background-color:transparent;
 }
 
