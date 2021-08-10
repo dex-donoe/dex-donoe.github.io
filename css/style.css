@@ -326,7 +326,7 @@ hr {
   .marquee-container-top {
     position: fixed;
     top:0;
-    width: 100%;
+    width: 400%;
     overflow: hidden;
     height: 5vw;
     background-color:#ff0000;
