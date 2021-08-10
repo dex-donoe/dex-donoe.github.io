@@ -175,40 +175,44 @@ html, body {
 
 .header {
   position:fixed;
-  top:7vw;
   width:100%;
   color:#ff00d2;
-  font-size:20vw;
   text-align:center;
   text-transform:uppercase;
   z-index:999;
+  padding: 7vw 0 0;
+  margin: 0;
+}
+
+.cover {
+  width: 30vw;
+  padding: 0;
+  margin:0;
 }
 
 /* MUSIC_PLAYER */
 
 .music {
-  position:fixed;
-  top:30vw;
   width:100%;
   text-align:center;
-  margin:0;
   padding:0;
+  margin: 2vw 0 0;
   z-index:999;
 }
 
 hr {
   border:0;
-  height:1vw;
+  height:.5vw;
 }
 
 /* MUSIC_PLAYER_BUTTONS */
 
 .play {
-  font-family: 'GT Walsheim', sans-serif;
-  font-weight:600;
-  font-size:2vw;
+  font-family: courier;
+  font-weight:500;
+  font-size:1.8vw;
   font-style:oblique;
-  letter-spacing:1;
+  letter-spacing:1.5;
   text-transform:uppercase;
   width:20vw;
   margin:0 1vw;
@@ -226,9 +230,9 @@ hr {
 /* STOP_BUTTON */
 
 .stop {
-  font-family: 'GT Walsheim', sans-serif;
-  font-weight:600;
-  font-size:2vw;
+  font-family: courier;
+  font-weight:500;
+  font-size:1.9vw;
   font-style:oblique;
   letter-spacing:1;
   text-transform:uppercase;

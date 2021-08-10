@@ -8,12 +8,8 @@ document.getElementById('MyMind').onclick = function() {
   document.getElementById('my-mind').play();
 };
 
-document.getElementById('Song3').onclick = function() {
-  document.getElementById('song-3').play();
-};
-
-document.getElementById('Song4').onclick = function() {
-  document.getElementById('song-4').play();
+document.getElementById('NoTears').onclick = function() {
+  document.getElementById('no-tears').play();
 };
 
 document.getElementById('stopButton').onclick = function() {
