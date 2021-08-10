@@ -326,7 +326,7 @@ hr {
   .marquee-container-top {
     position: fixed;
     top:0;
-    width: 400%;
+    width: 100%;
     overflow: hidden;
     height: 5vw;
     background-color:#ff0000;
@@ -358,13 +358,12 @@ hr {
     background-color:#00eaff;
   }
 
-
   .scrolling-text {
     display: block;
     color:black;
     font-size:4.3vw;
     text-transform:uppercase;
-    width: 50%;
+    width: 100%;
     /* width of your text div */
     height: 2vw;
     /* height of your text div */
@@ -382,7 +381,7 @@ hr {
     height: 2vw;
     /* height of your text div */
     position: absolute;
-    animation: scroll-left 2s linear infinite; /* change 5s value to your desired speed */
+    animation: scroll 2s linear infinite; /* change 5s value to your desired speed */
   }
 
   .scrolling-text-side p {
